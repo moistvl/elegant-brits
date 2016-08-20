@@ -1,0 +1,25 @@
+{
+   "name": "Elegant Brit",
+   "theme": {
+      "colors": {
+         "frame": [ 41, 42, 44 ],
+	"bookmark_text": [108, 158, 171],
+	"toolbar" : [250, 250, 250]
+      },
+      "images": {
+         "theme_toolbar": "images/theme_toolbar.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_inactive": "images/theme_frame.png",
+         "theme_frame_incognito": "images/theme_frame.png",
+         "theme_frame_incognito_inactive": "images/theme_frame.png"
+	},
+      "tints": {
+        "buttons": [ 0, 0, 0.1 ],
+        "frame_inactive": [-1.0, -1.0, -1.0 ],
+	"frame_incognito": [-1.0, -1.0, -1.0],
+	"frame_incognito_inactive": [-1.0, -1.0, -1.0]
+	}
+   },
+   "version": "2.1"
+}

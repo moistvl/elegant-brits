@@ -54,3 +54,4 @@ TODO:
 - Add larger Elegant Brit wallpaper pack
 - Find/Create Elegant Brit icons
 - Create Elegant Brit themes for every WM/DE I can find
+
